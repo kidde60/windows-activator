@@ -36,7 +36,6 @@ irm https://massgrave.dev/get | iex
 
 <details>
   <summary>Click here for info</summary>
-
 1.   Download the file using the links provided below.  
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
 or  
