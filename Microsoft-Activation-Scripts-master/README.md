@@ -18,7 +18,6 @@ irm https://get.activated.win | iex
 4.   That's all.
 
 <details>
-  
   <summary>More options</summary>
 
 - Alternatively, you can use the following (It will be deprecated in the future.)
